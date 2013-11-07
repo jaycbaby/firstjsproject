@@ -1,0 +1,19 @@
+{
+  "name": "game1",
+  "version": "0.0.0",
+  "authors": [
+    "jaycbaby"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "backbone": "~1.1.0"
+  }
+}
